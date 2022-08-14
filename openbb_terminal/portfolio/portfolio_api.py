@@ -16,5 +16,4 @@ from .portfolio_optimization import po_api as po
 # Models
 models = _models(os.path.abspath(os.path.dirname(__file__)))
 
-#aaqui tengo que tabajar
-#nuevamente 
+ 
